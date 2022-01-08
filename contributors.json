@@ -1,6 +1,7 @@
 [
     {
         "author": "Roshan Ranabhat",
+        "email": "roshanranabhat11@gmail.com",
         "social": {
             "github": "https://github.com/gobeam",
             "linkedin": "https://www.linkedin.com/in/roshan-ranabhat/"
@@ -9,10 +10,11 @@
     },
     {
         "author": "Urmila Shahi Thakuri",
+        "email": "urmilasai",
         "social": {
             "github": "https://github.com/urmilasai",
             "linkedin": ""
         },
-        "designation": ""
+        "designation": "Frontend Developer"
     }
 ]
